@@ -3,7 +3,7 @@ fun main(args: Array<String>) {
     var first = 1.20f
     var second = 2.45f
 
-    println("--Before swap--")
+    println("---Before Swap---")
     println("First number = $first")
     println("Second number = $second")
 
